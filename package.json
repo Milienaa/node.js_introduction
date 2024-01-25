@@ -1,0 +1,12 @@
+{
+  "name": "hw",
+  "version": "1.0.0",
+  "description": "learning the file system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "first": "node index.js"
+  },
+  "author": "Bezklynska Miliena",
+  "license": "ISC"
+}
